@@ -13,7 +13,7 @@
 2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Import Json`.**
 3. **Paste in the JSON.**
 4. **Save and you're good to go!**
-<img src="/assets/tutorial.gif" width="750"/>
+<img ![tutorial](https://github.com/kanjioltey/kanji/assets/160252420/6bd98012-f16a-4eb9-b0a4-a8e130a56318) width="750"/>
 
  # List Navigation
 * **[Rendering](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#rendering)**
